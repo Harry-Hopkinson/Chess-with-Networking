@@ -1,4 +1,5 @@
 import pygame
+# pip install pygame
 
 width = 500
 height = 500
