@@ -1,14 +1,14 @@
 # Contributing to VS Code
 
-Welcome, and thank you for your interest in contributing to VS Code!
+Welcome, and thank you for your interest in contributing to Python Networking!
 
 There are many ways in which you can contribute, beyond writing code. The goal of this document is to provide a high-level overview of how you can get involved.
 
 ## Asking Questions
 
-Have a question? Rather than opening an issue, please ask away on [Stack Overflow](https://stackoverflow.com/questions/tagged/vscode) using the tag `vscode`.
+Have a question? Open an Issue.
 
-The active community will be eager to assist you. Your well-worded question will serve as a resource to others searching for help.
+I will assist you and fix the code.
 
 ## Providing Feedback
 
