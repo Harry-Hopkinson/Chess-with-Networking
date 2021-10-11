@@ -1,0 +1,6 @@
+from piece import Bishop
+	
+
+
+    
+    
