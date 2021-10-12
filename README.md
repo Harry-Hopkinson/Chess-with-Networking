@@ -13,9 +13,3 @@ You will need to change the server address from within the following two files:
 - server.py
 
 You will also need to run server.py on some kind of server. After that you can launch two instances of game from anywhere to play online chess.
-
-
-# Known Bugs:
-- Checkmate does not work, if you loose or win you will need to end the game by hitting "q" or quitting the program with the x button.
-- Very rare bug where a certain move will crash the game
-- No en passant Pawn Rule
